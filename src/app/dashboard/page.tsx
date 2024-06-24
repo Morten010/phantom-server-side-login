@@ -1,4 +1,4 @@
-import LogoutButton from '@/components/logoutButton'
+import LogoutButton from '@/components/LogoutButton'
 import { FC } from 'react'
 
 interface pageProps {
